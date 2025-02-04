@@ -1,0 +1,23 @@
+@import "tailwindcss";
+@font-face {
+  font-family: 'Romania';
+  src: url('./assets/Fonts/Romania.ttf') format('truetype'),
+       url('./assets/Fonts/Romania.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Vogue';
+  src: url('./assets/Fonts/Vogue.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+
+h1, h2, h3, h4, h5, h6{
+  font-family: 'Romania';
+}
+
