@@ -12,6 +12,7 @@ export default function Footer() {
         {/* Logo Section */}
         <div className="flex flex-col items-center">
           <img src={logo} alt="Logo" className="h-16 mb-2" />
+          <h6 className="text-sm">Dr.Noura fouad</h6>
           <p className="text-sm text-gray-700">Plastic & Aesthetic Surgeon</p>
         </div>
 
