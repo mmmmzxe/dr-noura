@@ -1,7 +1,20 @@
 {
-    "profile": {
-      "description": "Our highest priority is to age, of course, without losing its attractiveness and freshness. Our patients: should look better in the long term, but no differently. How do we do it? By taking them to their very personal 'Journey of the Face'. My team and I accompany the long-term beauty of the patient: gently emphasize.",
-      "doctor_name": "Dr. Noura Fouad"
-    }
+  "profile": {
+    "description": "Dr. Noura Fouad is a renowned Dermatologist and Aesthetic Specialist with expertise in skin care treatments and aesthetic procedures. She holds a degree from Ain Shams University, and her professional experience is backed by certifications from the Egyptian Military Board and the Dermatology Glasgow Diploma.",
+    "doctor_name": "Dr. Noura Fouad"
   }
+  ,
+    "services": {
+      "skin_boosters": "Skin boosters are a new era of stimulation of your own collagen and elastin in the skin that gives you more glowy, elastic, and healthy skin. It is also a good procedure for an anti-aging plan that keeps your skin younger and healthier.",
+      "face_fillers": "Face fillers are hyaluronic acid injections that define, reshape, and naturally fill your lost volume. It also stimulates your skin's collagen and lifts your skin naturally.",
+      "lip_fillers": "Lip fillers are hyaluronic acid injections that renew your lips, decrease lines and cracks, reshape your own natural beauty lips, and hydrate your skin.",
+      "botox": "Botox is a magical treatment for static resistant lines at the forehead and around the eyes that makes your skin subtly younger in appearance.",
+      "hybrid_fillers": {
+        "title": "Hybrid Fillers ",
+        "description": "Calcium + hyaluronic acid liquid face lifting for natural subtle glowy skin. Natural volume gain. Skin lifting increases by days along the treatment plan. Skin tightness and collagen stimulation by your own cells. Cheeks, temples, and jawline. Victor technique for strong lifting, no more aggressive smile lines."
+      }
+    }
+    
+}
+
   

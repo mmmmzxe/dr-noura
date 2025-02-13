@@ -5,24 +5,56 @@ import "slick-carousel/slick/slick-theme.css";
 import { FaArrowLeft, FaArrowRight, FaLongArrowAltLeft, FaLongArrowAltRight } from "react-icons/fa";
 import { AiOutlineArrowLeft, AiOutlineArrowRight } from "react-icons/ai";
 
+import f2 from "../assets/f2.JPG"
+import f1 from "../assets/f.JPG"
+import f3 from "../assets/f3.JPG"
+import f4 from "../assets/f4.JPG"
+import f5 from "../assets/f5.JPG"
+import f6 from "../assets/f6.JPG"
+import f7 from "../assets/f7.JPG"
+
+
 const treatments = [
   {
     title: "Breast enlargement with autologous fat",
     description:
-      "Breast augmentation with autologous fat, also known as lipofilling, is an excellent alternative for many women to enlarge their breasts with a natural appearance without having to resort to traditional breast surgery with implants.",
-    image: "/path-to-image1.jpg",
+     "Skin boosters are new era of stimulation of your own collagen and elastin in skin that gives you more glowy , elastic and healthy skin , it also a good procedure for anti-aging plan that keeps your skin younger and healthier"
+   , image: f1,
   },
   {
     title: "Breast enlargement with implants",
-    description:
-      "Breast augmentation with implants is a proven method for women seeking a natural appearance without relying on the use of autologous fat.",
-    image: "/path-to-image2.jpg",
+    description:"Lip fillers is hyaluronic acid injection that renews your lips , decreases lines and cracks, reshapes your own natural beauty lips and hydrates your skin",
+
+    image: f2,
   },
   {
     title: "Profile Balancing",
     description:
       "Treatment with fillers such as hyaluronic acid can enlarge lips, correct the shape of the nose or model the chin. Profile Balancing, also known as Profiloplasty, is a holistic treatment that combines various procedures.",
-    image: "/path-to-image3.jpg",
+    image: f3,
+  },
+  {
+    title: "Profile Balancing",
+    description:
+      "Treatment with fillers such as hyaluronic acid can enlarge lips, correct the shape of the nose or model the chin. Profile Balancing, also known as Profiloplasty, is a holistic treatment that combines various procedures.",
+    image: f4,
+  },
+  {
+    title: "Profile Balancing",
+    description:"Lip fillers is hyaluronic acid injection that renews your lips , decreases lines and cracks, reshapes your own natural beauty lips and hydrates your skin",
+    image: f5,
+  },
+  {
+    title: "Profile Balancing",
+    description:
+      "Treatment with fillers such as hyaluronic acid can enlarge lips, correct the shape of the nose or model the chin. Profile Balancing, also known as Profiloplasty, is a holistic treatment that combines various procedures.",
+    image: f6,
+  },
+  {
+    title: "Profile Balancing",
+    description:
+      "Treatment with fillers such as hyaluronic acid can enlarge lips, correct the shape of the nose or model the chin. Profile Balancing, also known as Profiloplasty, is a holistic treatment that combines various procedures.",
+    image: f7,
   },
 ];
 
