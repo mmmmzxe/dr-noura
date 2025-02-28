@@ -20,7 +20,7 @@ export default function FAQ() {
   const [openIndex, setOpenIndex] = useState(null);
 
   return (
-    <div className="bg-[#dfdcd4]  mx-auto min-h-[100vh] justify-center items-center flex flex-col my-10">
+    <div className="bg-[#dfdcd4] p-4  mx-auto min-h-[100vh] justify-center items-center flex flex-col my-10">
 
    
     <div className=" container ">

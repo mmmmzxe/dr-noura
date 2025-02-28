@@ -14,3 +14,13 @@ i18n.use(initReactI18next).init({
   interpolation: { escapeValue: false }
 });
 
+i18n.on('languageChanged', (lng) => {
+  if (lng === 'ar') {
+    document.documentElement.dir = 'rtl';
+    document.documentElement.lang = 'ar';
+  } else {
+    document.documentElement.dir = 'ltr';
+    document.documentElement.lang = 'en';
+  }
+});
+
